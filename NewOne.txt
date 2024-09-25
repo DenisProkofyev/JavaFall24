@@ -1,1 +1,2 @@
-More text to type
+Some text to type
+Another line
